@@ -30,5 +30,5 @@ public class BlackAndWhiteNumber {
 			System.out.print(j+" ");
 		}
 	}
-
+    //git pushing
 }
